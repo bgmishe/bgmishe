@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**bgmishe/bgmishe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm 20 years old and I'm a sophomore taking CS classes. For some reason I decided to change my course of life from being a full time athlete to a student-athlete
 majoring in CS on the other side of the world from my home. I have never taken any CS classes or code in any language before starting college, but I love math and 
